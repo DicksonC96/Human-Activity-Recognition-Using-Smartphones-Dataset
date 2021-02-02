@@ -1,3 +1,19 @@
+Human Activity Recognition Using Smartphones Dataset
+====================================================
+
+This dataset was adapted from the following publication:  
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L.
+Reyes-Ortiz. Human Activity Recognition on Smartphones using a
+Multiclass Hardware-Friendly Support Vector Machine. International
+Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz,
+Spain. Dec 2012
+
+The experiments have been carried out with a group of 30 volunteers
+within an age bracket of 19-48 years. Each person performed six
+activities (WALKING, WALKING\_UPSTAIRS, WALKING\_DOWNSTAIRS, SITTING,
+STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the
+waist. Measurements obtained were recorded into datasets.
+
 This study summarizes the means and standard deviations (std) of each
 variables according to each activity and each subject prior to identify
 the most significant variable for predicting human activity.
@@ -193,12 +209,14 @@ The detailed information of the original project are as followed:
 
 Human Activity Recognition Using Smartphones Dataset Version 1.0
 
-==================================================================  
+==================================================================
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory DITEN - UniversitÃ 
 degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy.
 <a href="mailto:activityrecognition@smartlab.ws" class="email">activityrecognition@smartlab.ws</a>
 www.smartlab.ws
+
 ==================================================================
 
 The experiments have been carried out with a group of 30 volunteers
